@@ -7,7 +7,7 @@ from event_class import Event
 import store_global as store_global
 import handler as handler
 
-with open("pyskript_test.py","r") as f:
+with open("code.py","r") as f:
     file=f.read()
 
 Tree=ast.parse(file)
