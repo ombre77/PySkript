@@ -21,7 +21,7 @@ Open a terminal inside the project folder and run the generator. If you use the 
 source .venv/bin/activate
 ```
 
-Then run the generator (the current implementation reads `pyskript_test.py` by default):
+Then run the generator (the current implementation reads `code.py` by default):
 
 ```bash
 python generator.py
